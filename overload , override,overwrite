@@ -1,2 +1,8 @@
 java中如何理解overload , override 和 overwrite
 http://blog.csdn.net/li396864285/article/details/22401561
+
+
+<p>梳理下最终得出结论：</p>  
+<p>override：覆写是对接口方法名实现</p>  
+<p>overload：重载 同一个类里同一个方法名，有不同入参</p>  
+<p>overwrite：重写 重写父类所属方法</p>  
